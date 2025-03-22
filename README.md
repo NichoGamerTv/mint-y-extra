@@ -1,5 +1,6 @@
 # mint-y-extra
-This adds more app icons for Linux Mint Y Style
+This adds more app icons for Linux Mint Y Style (Moka Icons)<br>
+This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons) for this icon pack to work.
 ## About the Icons
 This adds icons that doesn't have like Prism Launcher. <br>
 This is Currently in ALPHA I right now, so there is berely any icons, but if you want to suggest an icon, go to issues and suggest an app to make an icon.
