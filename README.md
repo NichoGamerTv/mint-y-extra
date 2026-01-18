@@ -5,12 +5,19 @@ This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons
 This adds icons that doesn't have like Prism Launcher. <br>
 This is Currently in ALPHA I right now, so there is berely any icons, but if you want to suggest an icon, go to issues and suggest an app to make an icon.
 ## Current icons so far
-![armcord](https://github.com/user-attachments/assets/4b6a8a26-d776-49cb-a62c-582bf19b1ca1)
-![prism-launcher](https://github.com/user-attachments/assets/bcf67d8b-6f8a-4f2a-acf4-9151d41ccbca)
-![flatseal](https://github.com/user-attachments/assets/fde0bd8c-ce87-46bf-a04c-67268f9b04a0)
-![bedrock-launcher](https://github.com/user-attachments/assets/1e1dd542-ae70-4c05-988a-787445a95876)
+<img width="64" height="64" alt="armcord" src="https://github.com/user-attachments/assets/9fe535e3-77dd-40a1-880d-1cbc05f5a1c8" />
+<img width="64" height="64" alt="bedrock-launcher" src="https://github.com/user-attachments/assets/01761816-1f04-48cf-922e-20b28eee04bd" />
+<img width="64" height="64" alt="flatseal" src="https://github.com/user-attachments/assets/f1376ba2-acb2-4498-87fa-d6f3e162a2e2" />
+<img width="64" height="64" alt="prism-launcher" src="https://github.com/user-attachments/assets/f7382451-db18-49b3-b84a-52a702f69ad4" />
+<img width="64" height="64" alt="portal" src="https://github.com/user-attachments/assets/cd99e9b2-2092-4078-928b-6dd5dae093aa" />
+<img width="64" height="64" alt="portal-2" src="https://github.com/user-attachments/assets/16288be4-3df1-4c09-849d-c65cdf8377b9" />
+<img width="64" height="64" alt="waydroid" src="https://github.com/user-attachments/assets/6d1fe509-c1d9-47f6-a508-c8fc03912469" />
+
 
 - Armcord
 - Minecraft Unofficial Bedrock Launcher
 - Flatseal
 - Prism Launcher
+- Portal
+- Portal 2
+- Waydroid
