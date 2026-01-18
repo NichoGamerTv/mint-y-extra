@@ -11,6 +11,8 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 <img width="64" height="64" alt="prism-launcher" src="https://github.com/user-attachments/assets/f7382451-db18-49b3-b84a-52a702f69ad4" />
 <img width="64" height="64" alt="portal" src="https://github.com/user-attachments/assets/cd99e9b2-2092-4078-928b-6dd5dae093aa" />
 <img width="64" height="64" alt="portal-2" src="https://github.com/user-attachments/assets/16288be4-3df1-4c09-849d-c65cdf8377b9" />
+<img width="64" height="64" alt="portal-reloaded" src="https://github.com/user-attachments/assets/74117655-414c-43e3-bab8-cbe34a6289a3" />
+<img width="64" height="64" alt="portal-revolution" src="https://github.com/user-attachments/assets/d1257eb8-71ae-4bbe-8cfe-a7bca7dc1001" />
 <img width="64" height="64" alt="waydroid" src="https://github.com/user-attachments/assets/6d1fe509-c1d9-47f6-a508-c8fc03912469" />
 
 
@@ -20,4 +22,6 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 - Prism Launcher
 - Portal
 - Portal 2
+- Portal Reloaded
+- Portal Revolution
 - Waydroid
