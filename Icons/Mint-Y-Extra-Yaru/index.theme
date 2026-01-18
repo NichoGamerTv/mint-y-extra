@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Mint-Y-Extended-Yaru
+Name=Mint-Y-Extra-Yaru
 Comment=Icon pack for Linux Mint but extends the icons to fit for apps that didn't have an icon.
 Inherits=Mint-Y-Yaru,Mint-Y,Adwaita,gnome,hicolor
 Example=folder
