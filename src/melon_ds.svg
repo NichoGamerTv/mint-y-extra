@@ -9,7 +9,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="melon-ds.svg"
+   sodipodi:docname="melon_ds.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -32,7 +32,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8997602"
-     inkscape:cx="174.49571"
+     inkscape:cx="157.38829"
      inkscape:cy="143.17597"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -486,7 +486,7 @@
            y="19.745117"
            x="122.48828"
            sodipodi:role="line"
-           id="tspan3937">melon-ds</tspan></text><rect
+           id="tspan3937">melon_ds</tspan></text><rect
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect16x16"
          width="16"

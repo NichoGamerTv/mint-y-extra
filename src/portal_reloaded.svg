@@ -32,9 +32,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="232.24999"
-     inkscape:cy="176"
-     inkscape:current-layer="layer6"
+     inkscape:cx="215.99999"
+     inkscape:cy="175.99999"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -486,7 +486,7 @@
            y="19.745117"
            x="122.48828"
            sodipodi:role="line"
-           id="tspan1220">portal-reloaded</tspan></text><rect
+           id="tspan1220">portal_reloaded</tspan></text><rect
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect16x16"
          width="16"
