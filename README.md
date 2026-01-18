@@ -1,10 +1,11 @@
 # mint-y-extra
 This adds more app icons for Linux Mint Y Style (Moka Icons)<br>
-This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons) for this icon pack to work.
+This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons) for this icon pack to work. *(if you are on Linux Mint, you are already halfway there)*
 ## About the Icons
-This adds icons that doesn't have like Prism Launcher. <br>
+This adds icons that doesn't have like Prism Launcher and Waydroid as an example, but it also replaces some icons to be improved like Portal 2. <br>
 This is Currently in ALPHA I right now, so there is berely any icons, but if you want to suggest an icon, go to issues and suggest an app to make an icon.
 ## Current icons so far
+<p align="left">
 <img width="48" height="48" alt="armcord" src="https://github.com/user-attachments/assets/7bc18b5a-0489-4586-90b0-4f6d651280c7" />
 <img width="48" height="48" alt="bedrock-launcher" src="https://github.com/user-attachments/assets/f5a92a94-1e9d-43bc-a33c-add869faafd1" />
 <img width="48" height="48" alt="flatseal" src="https://github.com/user-attachments/assets/59a98db5-1bad-4de5-ab65-54bb55c7debc" />
@@ -17,7 +18,8 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 <img width="48" height="48" alt="melon-ds" src="https://github.com/user-attachments/assets/9e8f0aa2-3c31-4a07-b8f4-c8c0228b3a70" />
 <img width="48" height="48" alt="pairdrop" src="https://github.com/user-attachments/assets/a83436ce-c37f-4c7c-9aca-a7d2023b7750" />
 <img width="48" height="48" alt="legcord" src="https://github.com/user-attachments/assets/8e77ce67-6ef2-41a6-bf8f-cada15774a6a" />
-
+<img width="48" height="48" alt="garrys-mod" src="https://github.com/user-attachments/assets/a14324d6-b754-4f8d-9a8d-5963992cea01" />
+<p/>
 
 - Armcord
 - Minecraft Unofficial Bedrock Launcher
@@ -31,3 +33,4 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 - MelonDS
 - Pairdrop
 - Legcord
+- Garry's Mod
