@@ -19,10 +19,13 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 <img width="48" height="48" alt="pairdrop" src="https://github.com/user-attachments/assets/a83436ce-c37f-4c7c-9aca-a7d2023b7750" />
 <img width="48" height="48" alt="legcord" src="https://github.com/user-attachments/assets/8e77ce67-6ef2-41a6-bf8f-cada15774a6a" />
 <img width="48" height="48" alt="garrys-mod" src="https://github.com/user-attachments/assets/a14324d6-b754-4f8d-9a8d-5963992cea01" />
+<img width="48" height="48" alt="desktop_plus" src="https://github.com/user-attachments/assets/fb6ae72c-5d8d-47e5-8033-f102dd5dab7c" />
+<img width="48" height="48" alt="aperature_desk_job" src="https://github.com/user-attachments/assets/28b3b550-386d-40f2-a75c-1669beb70239" />
+
 <p/>
 
 - Armcord
-- Minecraft Unofficial Bedrock Launcher
+- Minecraft Bedrock Launcher
 - Flatseal
 - Prism Launcher
 - Portal
@@ -34,3 +37,5 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 - Pairdrop
 - Legcord
 - Garry's Mod
+- Desktop Plus
+- Aperature Desk Job
