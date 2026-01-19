@@ -21,6 +21,10 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 <img width="48" height="48" alt="garrys-mod" src="https://github.com/user-attachments/assets/a14324d6-b754-4f8d-9a8d-5963992cea01" />
 <img width="48" height="48" alt="desktop_plus" src="https://github.com/user-attachments/assets/fb6ae72c-5d8d-47e5-8033-f102dd5dab7c" />
 <img width="48" height="48" alt="aperature_desk_job" src="https://github.com/user-attachments/assets/28b3b550-386d-40f2-a75c-1669beb70239" />
+<img width="48" height="48" alt="mame" src="https://github.com/user-attachments/assets/4ffa6dc0-36e5-42ce-994c-7dbea3b4e503" />
+<img width="48" height="48" alt="kvantum" src="https://github.com/user-attachments/assets/220a43de-9691-4b95-985b-23422f8a3fc3" />
+<img width="48" height="48" alt="fooyin" src="https://github.com/user-attachments/assets/d5c120c7-4e23-49b2-a667-f990a970365e" />
+<img width="48" height="48" alt="aegisub" src="https://github.com/user-attachments/assets/d3ea3846-0d40-4033-830f-ab0303065a4d" />
 
 <p/>
 
@@ -39,3 +43,7 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 - Garry's Mod
 - Desktop Plus
 - Aperature Desk Job
+- Mame
+- Kvantum
+- Fooyin
+- Aegisub
