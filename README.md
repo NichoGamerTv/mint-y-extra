@@ -28,6 +28,7 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 <img width="48" height="48" alt="fooyin" src="https://github.com/user-attachments/assets/d5c120c7-4e23-49b2-a667-f990a970365e" />
 <img width="48" height="48" alt="aegisub" src="https://github.com/user-attachments/assets/d3ea3846-0d40-4033-830f-ab0303065a4d" />
 <img width="48" height="48" alt="gqrx" src="https://github.com/user-attachments/assets/ea825605-f9d6-41d1-8ded-28fb37c4e295" />
+<img width="48" height="48" alt="kdenlive" src="https://github.com/user-attachments/assets/cbd883e0-a952-4bd6-bdc8-9c06869f5c51" />
 
 <p/>
 
@@ -51,3 +52,4 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 - Fooyin
 - Aegisub
 - GQRX
+- Kdenlive
