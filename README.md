@@ -3,7 +3,9 @@ This adds more app icons for Linux Mint Y Style (Moka Icons)<br>
 This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons) for this icon pack to work. *(if you are on Linux Mint, you are already halfway there)*
 ## About the Icons
 This adds icons that doesn't have like Prism Launcher and Waydroid as an example, but it also replaces some icons to be improved like Portal 2. <br>
-This is Currently in ALPHA I right now, so there is berely any icons, but if you want to suggest an icon, go to issues and suggest an app to make an icon.
+TIf you want to suggest an icon, submit an issue for an icon request or do a pull request if you are advanced.
+## Installation
+Currently, there is no install script but it's simple. Clone the repo and copy and the folders from `/usr/share/icons` on the repo folder that was cloned to `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` for System-Wide Installation.
 ## Current icons so far
 <p align="left">
 <img width="48" height="48" alt="armcord" src="https://github.com/user-attachments/assets/7bc18b5a-0489-4586-90b0-4f6d651280c7" />
@@ -25,6 +27,7 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 <img width="48" height="48" alt="kvantum" src="https://github.com/user-attachments/assets/220a43de-9691-4b95-985b-23422f8a3fc3" />
 <img width="48" height="48" alt="fooyin" src="https://github.com/user-attachments/assets/d5c120c7-4e23-49b2-a667-f990a970365e" />
 <img width="48" height="48" alt="aegisub" src="https://github.com/user-attachments/assets/d3ea3846-0d40-4033-830f-ab0303065a4d" />
+<img width="48" height="48" alt="gqrx" src="https://github.com/user-attachments/assets/ea825605-f9d6-41d1-8ded-28fb37c4e295" />
 
 <p/>
 
@@ -47,3 +50,4 @@ This is Currently in ALPHA I right now, so there is berely any icons, but if you
 - Kvantum
 - Fooyin
 - Aegisub
+- GQRX
