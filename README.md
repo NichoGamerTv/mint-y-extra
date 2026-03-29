@@ -29,6 +29,11 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 <img width="48" height="48" alt="aegisub" src="https://github.com/user-attachments/assets/d3ea3846-0d40-4033-830f-ab0303065a4d" />
 <img width="48" height="48" alt="gqrx" src="https://github.com/user-attachments/assets/ea825605-f9d6-41d1-8ded-28fb37c4e295" />
 <img width="48" height="48" alt="kdenlive" src="https://github.com/user-attachments/assets/cbd883e0-a952-4bd6-bdc8-9c06869f5c51" />
+<img width="48" height="48" alt="bottles" src="https://github.com/user-attachments/assets/6de3f467-a0ec-48f2-8baf-dce04ff7f8da" />
+<img width="48" height="48" alt="gearlever" src="https://github.com/user-attachments/assets/1787a433-38ea-4fce-93b9-ad3c2f545c36" />
+<img width="48" height="48" alt="figma-linux" src="https://github.com/user-attachments/assets/c8b6b535-2d87-41d8-8a29-b9867030f994" />
+<img width="48" height="48" alt="localsend" src="https://github.com/user-attachments/assets/c492abfd-6928-41bc-9c70-07581db25553" />
+<img width="48" height="48" alt="fedora-writer" src="https://github.com/user-attachments/assets/4c677601-aab8-4e7f-9476-893a7b23d920" />
 
 <p/>
 
@@ -53,3 +58,8 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 - Aegisub
 - GQRX
 - Kdenlive
+- Bottles
+- Gear Lever
+- Figma for Linux
+- LocalSend
+- Fedora Media Writer
