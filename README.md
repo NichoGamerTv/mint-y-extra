@@ -34,6 +34,7 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 <img width="48" height="48" alt="figma-linux" src="https://github.com/user-attachments/assets/c8b6b535-2d87-41d8-8a29-b9867030f994" />
 <img width="48" height="48" alt="localsend" src="https://github.com/user-attachments/assets/c492abfd-6928-41bc-9c70-07581db25553" />
 <img width="48" height="48" alt="fedora-writer" src="https://github.com/user-attachments/assets/4c677601-aab8-4e7f-9476-893a7b23d920" />
+<img width="48" height="48" alt="ab-refresh" src="https://github.com/user-attachments/assets/15bd1db6-3535-490c-aa9a-75bbc61cc1c0" />
 
 <p/>
 
@@ -63,3 +64,4 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 - Figma for Linux
 - LocalSend
 - Fedora Media Writer
+- Angry Birds Refresh
