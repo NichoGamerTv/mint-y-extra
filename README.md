@@ -2,7 +2,7 @@
 This adds more app icons for Linux Mint Y Style (Moka Icons)<br>
 This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons) for this icon pack to work. *(if you are on Linux Mint, you are already halfway there)*
 ## About the Icons
-This adds icons that doesn't have like Prism Launcher and Waydroid as an example, but it also replaces some icons to be improved like Portal 2. <br>
+This adds icons that doesn't have icons for them such as like Prism Launcher and Waydroid as an example, but it also replaces some icons that improved on them like Portal 2. <br>
 If you want to suggest an icon, submit an issue for an icon request or do a pull request if you are advanced.
 ## Installation
 Currently, there is no install script but it's simple. Clone the repo and copy and the folders from `/usr/share/icons` on the repo folder that was cloned to `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` for System-Wide Installation.
