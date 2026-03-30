@@ -2,7 +2,7 @@
 This adds more app icons for Linux Mint Y Style (Moka Icons)<br>
 This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons) for this icon pack to work. *(if you are on Linux Mint, you are already halfway there)*
 ## About the Icons
-This adds icons that doesn't have icons for them such as like Prism Launcher and Waydroid as an example, but it also replaces some icons that improved on them like Portal 2. <br>
+This adds icons that doesn't have icons for them such as like Prism Launcher and Waydroid as an example, but it also replaces some icons that improved on them like Portal 2 and CrossOver. <br>
 If you want to suggest an icon, submit an issue for an icon request or do a pull request if you are advanced.
 ## Installation
 Currently, there is no install script but it's simple. Clone the repo and copy any of the folders from `/usr/share/icons` that are in the cloned repo folder into `~/.icons`, `~/.local/share/icons` for user-account installation, or `/usr/share/icons` for system-wide installation.
@@ -35,6 +35,7 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 <img width="48" height="48" alt="localsend" src="https://github.com/user-attachments/assets/c492abfd-6928-41bc-9c70-07581db25553" />
 <img width="48" height="48" alt="fedora-writer" src="https://github.com/user-attachments/assets/4c677601-aab8-4e7f-9476-893a7b23d920" />
 <img width="48" height="48" alt="ab-refresh" src="https://github.com/user-attachments/assets/15bd1db6-3535-490c-aa9a-75bbc61cc1c0" />
+<img width="48" height="48" alt="crossover" src="https://github.com/user-attachments/assets/bf9eff85-c430-4553-bae2-52ccd85fa94e" />
 
 <p/>
 
@@ -65,3 +66,4 @@ Currently, there is no install script but it's simple. Clone the repo and copy a
 - LocalSend
 - Fedora Media Writer
 - Angry Birds Refresh
+- CrossOver
