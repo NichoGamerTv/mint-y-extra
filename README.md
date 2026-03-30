@@ -5,7 +5,7 @@ This icon pack requires [Mint-Y-Icons](https://github.com/linuxmint/mint-y-icons
 This adds icons that doesn't have icons for them such as like Prism Launcher and Waydroid as an example, but it also replaces some icons that improved on them like Portal 2. <br>
 If you want to suggest an icon, submit an issue for an icon request or do a pull request if you are advanced.
 ## Installation
-Currently, there is no install script but it's simple. Clone the repo and copy and the folders from `/usr/share/icons` on the repo folder that was cloned to `~/.icons`, `~/.local/share/icons` for user-account installation, or `/usr/share/icons` for system-wide installation.
+Currently, there is no install script but it's simple. Clone the repo and copy any of the folders from `/usr/share/icons` that are in the cloned repo folder into `~/.icons`, `~/.local/share/icons` for user-account installation, or `/usr/share/icons` for system-wide installation.
 ## Current icons so far
 <p align="left">
 <img width="48" height="48" alt="armcord" src="https://github.com/user-attachments/assets/7bc18b5a-0489-4586-90b0-4f6d651280c7" />
